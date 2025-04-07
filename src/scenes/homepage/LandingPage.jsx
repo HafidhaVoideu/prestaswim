@@ -69,7 +69,7 @@ export default function LandingPage() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Link
-              href="/contact"
+              href="#contact"
               className="bg-white text-blue-800 py-3 px-8 rounded-lg text-lg font-semibold hover:bg-blue-100 hover:shadow-lg transition-all duration-300"
             >
               Contacter-nous
