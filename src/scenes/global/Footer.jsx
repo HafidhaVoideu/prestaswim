@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaFacebook, FaInstagram, FaPinterest } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -88,7 +88,7 @@ export default function Footer() {
                     href="https://pinterest.com"
                     className="text-blue-200 hover:text-white transition duration-300"
                   >
-                    <FaPinterest size={28} />
+                    <FaLinkedin size={28} />
                   </a>
                 </div>
               </div>

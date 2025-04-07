@@ -75,7 +75,7 @@ export default function LandingPage() {
               Contacter-nous
             </Link>
             <Link
-              href="/about"
+              href="#about"
               className="bg-transparent border-2 border-white text-white py-3 px-8 rounded-lg text-lg font-semibold hover:bg-white/10 transition-all duration-300"
             >
               En savoir plus
